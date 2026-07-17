@@ -1,4 +1,5 @@
 #serve para o acesso dos arquivos de dados, como banco de dados, arquivos, etc.
+#basicamente aqui se trata das funções que tratam diretamente nos arquivos tangendo em ler e salvar.
 from models import *
 
 class DaoCategoria:
