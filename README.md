@@ -1,7 +1,6 @@
 Projeto desenvolvido em Python com o objetivo de aplicar os conceitos de Programação Orientada a Objetos (POO) e a arquitetura MVC (Model - View - Controller) na prática.
 
-A aplicação simula um sistema de gerenciamento de loja, permitindo organizar funcionalidades como cadastro de categorias, produtos, estoque e vendas. O foco principal do projeto foi praticar separação de responsabilidades entre as camadas do sistema e melhorar a organização do código. [web:75][web:80]
-
+A aplicação simula um sistema de gerenciamento de loja, permitindo organizar funcionalidades como cadastro de categorias, produtos, estoque e vendas. O foco principal do projeto foi praticar separação de responsabilidades entre as camadas do sistema e melhorar a organização do código. 
 ## Objetivo
 
 Este projeto foi criado como exercício prático para consolidar conhecimentos em:
@@ -19,8 +18,7 @@ A arquitetura MVC foi utilizada para separar melhor as responsabilidades do sist
 - **Controller**: concentra as regras de negócio, validações e fluxo das operações.
 - **View**: responsável pela interação com o usuário, exibindo informações e resultados.
 
-Essa separação ajudou a deixar o projeto mais organizado, embora durante o desenvolvimento tenha ficado claro que o planejamento inicial da estrutura é essencial para evitar retrabalho. [web:75][web:78]
-
+Essa separação ajudou a deixar o projeto mais organizado, embora durante o desenvolvimento tenha ficado claro que o planejamento inicial da estrutura é essencial para evitar retrabalho. 
 ## Funcionalidades
 
 - Cadastro de categorias.
@@ -32,7 +30,7 @@ Essa separação ajudou a deixar o projeto mais organizado, embora durante o des
 
 ## Aprendizados
 
-Durante o desenvolvimento, foi possível perceber que aplicar MVC na prática exige mais planejamento do que parece no início. Em vários momentos foi necessário voltar à estrutura do projeto para adicionar novas funções, ajustar responsabilidades entre classes e melhorar a organização geral do código.
+Durante o desenvolvimento, percebi que aplicar MVC na prática exige mais planejamento do que parece no início. Em vários momentos foi necessário voltar à estrutura do projeto para adicionar novas funções, ajustar responsabilidades entre classes e melhorar a organização geral do código.
 
 Um dos principais aprendizados foi entender que, antes de começar a programar, vale a pena definir melhor o escopo do sistema, as entidades envolvidas e o papel de cada camada da arquitetura. Isso reduz erros, retrabalho e facilita a manutenção do projeto.
 
