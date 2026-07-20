@@ -48,6 +48,5 @@ Algumas melhorias que podem ser adicionadas nas próximas versões:
 
 ## Ideia de melhoria com logs
 
-Uma melhoria interessante para o projeto é adicionar um arquivo de log para registrar as operações realizadas pelo sistema. O módulo `logging` da biblioteca padrão do Python permite gravar mensagens em arquivo com nível, horário e codificação configuráveis. [web:76][web:82][web:87]
-
+Uma melhoria interessante para o projeto é adicionar um arquivo de log para registrar as operações realizadas pelo sistema. O módulo `logging` da biblioteca padrão do Python permite gravar mensagens em arquivo com nível, horário e codificação configuráveis. 
 Isso ajudaria a acompanhar chamadas de funções, identificar o fluxo de execução e entender com mais clareza de onde os erros estão vindo, especialmente em trechos com funções encadeadas. O guia oficial da documentação do Python mostra o uso de `basicConfig()` com arquivo de saída, e também é comum configurar `encoding="utf-8"` para evitar problemas com acentuação.
